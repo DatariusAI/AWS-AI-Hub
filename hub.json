@@ -1,0 +1,30 @@
+{
+  "arxiv_query": "abs:\"Amazon Web Services\" OR abs:SageMaker OR abs:\"Amazon Bedrock\" OR abs:\"AWS Lambda\"",
+  "arxiv_max": 8,
+  "repos_per_section": 6,
+  "since_days": 365,
+  "code_sections": [
+    {
+      "key": "PROJ",
+      "queries": [
+        "org:aws-samples bedrock",
+        "org:aws-samples generative ai"
+      ]
+    },
+    {
+      "key": "CODE",
+      "queries": [
+        "org:aws-samples sagemaker",
+        "org:awslabs"
+      ]
+    },
+    {
+      "key": "COMM",
+      "queries": [
+        "amazon bedrock",
+        "sagemaker",
+        "aws lambda llm"
+      ]
+    }
+  ]
+}
