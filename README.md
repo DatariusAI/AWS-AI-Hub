@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **Amazon Bedrock, SageMak
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-18 04:34 UTC_
+_Last refreshed: 2026-10-19 04:39 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -37,10 +37,10 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- PROJ:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop) | This is a workshop designed for Amazon Bedrock a foundational model service. | Jupyter Notebook | 2,217 | 2026-10-16 |
-| [aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples) | This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available fo | Jupyter Notebook | 1,521 | 2026-08-29 |
+| [aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop) | This is a workshop designed for Amazon Bedrock a foundational model service. | Jupyter Notebook | 2,219 | 2026-10-16 |
+| [aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples) | This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available fo | Jupyter Notebook | 1,522 | 2026-08-29 |
 | [aws-samples/generative-ai-use-cases](https://github.com/aws-samples/generative-ai-use-cases) | Application implementation with business use cases for safely utilizing generative AI in business operations | TypeScript | 1,390 | 2026-10-17 |
-| [aws-samples/bedrock-chat](https://github.com/aws-samples/bedrock-chat) | AWS-native chatbot using Bedrock | TypeScript | 1,324 | 2026-10-17 |
+| [aws-samples/bedrock-chat](https://github.com/aws-samples/bedrock-chat) | AWS-native chatbot using Bedrock | TypeScript | 1,324 | 2026-10-19 |
 | [aws-samples/well-architected-iac-analyzer](https://github.com/aws-samples/well-architected-iac-analyzer) | Sample Generative AI tool for evaluating Infrastructure as Code and architecture diagrams against AWS Well-Architected best practices. | TypeScript | 502 | 2026-10-12 |
 | [aws-samples/bedrock-engineer](https://github.com/aws-samples/bedrock-engineer) | Universal AI Agent using Amazon Bedrock, capable of customize to create/edit files, execute commands, search the web, use knowledge base, us | TypeScript | 484 | 2026-06-30 |
 <!-- PROJ:END -->
@@ -51,11 +51,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- CODE:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [awslabs/mcp](https://github.com/awslabs/mcp) | Open source MCP Servers for AWS | Python | 9,788 | 2026-10-16 |
+| [awslabs/mcp](https://github.com/awslabs/mcp) | Open source MCP Servers for AWS | Python | 9,793 | 2026-10-16 |
 | [awslabs/llrt](https://github.com/awslabs/llrt) | LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient  | Rust | 8,816 | 2026-10-16 |
-| [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) | A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system. | Rust | 5,785 | 2026-10-15 |
-| [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents | TypeScript | 5,371 | 2026-10-18 |
-| [awslabs/gluonts](https://github.com/awslabs/gluonts) | Probabilistic time series modeling in Python | Python | 5,248 | 2026-10-13 |
+| [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) | A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system. | Rust | 5,786 | 2026-10-15 |
+| [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents | TypeScript | 5,383 | 2026-10-19 |
+| [awslabs/gluonts](https://github.com/awslabs/gluonts) | Probabilistic time series modeling in Python | Python | 5,249 | 2026-10-13 |
 | [awslabs/deequ](https://github.com/awslabs/deequ) | Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets. | Scala | 3,650 | 2026-10-13 |
 <!-- CODE:END -->
 
@@ -65,11 +65,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- COMM:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) | Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker. | Jupyter Notebook | 10,995 | 2026-10-14 |
-| [awslabs/gluonts](https://github.com/awslabs/gluonts) | Probabilistic time series modeling in Python | Python | 5,248 | 2026-10-13 |
-| [awslabs/agentcore-samples](https://github.com/awslabs/agentcore-samples) | Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment. | Python | 3,457 | 2026-10-15 |
+| [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) | Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker. | Jupyter Notebook | 10,996 | 2026-10-14 |
+| [awslabs/gluonts](https://github.com/awslabs/gluonts) | Probabilistic time series modeling in Python | Python | 5,249 | 2026-10-13 |
+| [awslabs/agentcore-samples](https://github.com/awslabs/agentcore-samples) | Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment. | Python | 3,458 | 2026-10-15 |
 | [aws/sagemaker-python-sdk](https://github.com/aws/sagemaker-python-sdk) | A library for training and deploying machine learning models on Amazon SageMaker | Python | 2,269 | 2026-10-16 |
-| [aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop) | This is a workshop designed for Amazon Bedrock a foundational model service. | Jupyter Notebook | 2,217 | 2026-10-16 |
+| [aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop) | This is a workshop designed for Amazon Bedrock a foundational model service. | Jupyter Notebook | 2,219 | 2026-10-16 |
 | [aws-samples/custom-lens-wa-hub](https://github.com/aws-samples/custom-lens-wa-hub) | Provide JSON file template that demonstrate how to create customize Well-Architected reviews using Custom lenses. |  | 2,090 | 2026-08-21 |
 <!-- COMM:END -->
 
