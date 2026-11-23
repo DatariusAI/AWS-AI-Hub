@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **Amazon Bedrock, SageMak
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-22 04:28 UTC_
+_Last refreshed: 2026-11-23 04:32 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -51,10 +51,10 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- CODE:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [awslabs/mcp](https://github.com/awslabs/mcp) | Open source MCP Servers for AWS | Python | 9,939 | 2026-11-21 |
-| [awslabs/llrt](https://github.com/awslabs/llrt) | LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient  | Rust | 8,853 | 2026-11-21 |
-| [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents | TypeScript | 6,196 | 2026-11-22 |
-| [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) | A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system. | Rust | 5,801 | 2026-11-20 |
+| [awslabs/mcp](https://github.com/awslabs/mcp) | Open source MCP Servers for AWS | Python | 9,942 | 2026-11-21 |
+| [awslabs/llrt](https://github.com/awslabs/llrt) | LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient  | Rust | 8,853 | 2026-11-22 |
+| [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents | TypeScript | 6,209 | 2026-11-23 |
+| [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) | A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system. | Rust | 5,800 | 2026-11-20 |
 | [awslabs/gluonts](https://github.com/awslabs/gluonts) | Probabilistic time series modeling in Python | Python | 5,263 | 2026-10-13 |
 | [awslabs/deequ](https://github.com/awslabs/deequ) | Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets. | Scala | 3,660 | 2026-10-20 |
 <!-- CODE:END -->
@@ -67,7 +67,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 |---|---|---|---|---|
 | [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) | Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker. | Jupyter Notebook | 11,021 | 2026-10-14 |
 | [awslabs/gluonts](https://github.com/awslabs/gluonts) | Probabilistic time series modeling in Python | Python | 5,263 | 2026-10-13 |
-| [awslabs/agentcore-samples](https://github.com/awslabs/agentcore-samples) | Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment. | Python | 3,541 | 2026-11-20 |
+| [awslabs/agentcore-samples](https://github.com/awslabs/agentcore-samples) | Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment. | Python | 3,543 | 2026-11-23 |
 | [aws/sagemaker-python-sdk](https://github.com/aws/sagemaker-python-sdk) | A library for training and deploying machine learning models on Amazon SageMaker | Python | 2,272 | 2026-11-19 |
 | [aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop) | This is a workshop designed for Amazon Bedrock a foundational model service. | Jupyter Notebook | 2,223 | 2026-11-13 |
 | [aws-samples/custom-lens-wa-hub](https://github.com/aws-samples/custom-lens-wa-hub) | Provide JSON file template that demonstrate how to create customize Well-Architected reviews using Custom lenses. |  | 2,107 | 2026-11-05 |
